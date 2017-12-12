@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18129" started-at="2017-12-06T12:56:14Z" finished-at="2017-12-06T12:56:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18129" started-at="2017-12-06T12:56:14Z" finished-at="2017-12-06T12:56:32Z">
+      <class name="script.demo">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:script.demo@2a5ca609]" name="OpenBrowser" is-config="true" duration-ms="16273" started-at="2017-12-06T18:26:14Z" finished-at="2017-12-06T18:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="demo1()[pri:0, instance:script.demo@2a5ca609]" name="demo1" duration-ms="13" started-at="2017-12-06T18:26:31Z" finished-at="2017-12-06T18:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:script.demo@2a5ca609]" name="closeBrowser" is-config="true" duration-ms="1813" started-at="2017-12-06T18:26:31Z" finished-at="2017-12-06T18:26:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- script.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
